@@ -1,0 +1,4 @@
+Adafruit-DHT
+flask
+RPi.GPIO
+pyngrok
